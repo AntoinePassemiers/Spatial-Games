@@ -1,0 +1,8 @@
+*.tex
+*.synctex.gz
+*.pdf
+*.bat
+*.c
+
+__pycache__/
+build/
